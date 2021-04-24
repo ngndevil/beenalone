@@ -1,7 +1,7 @@
 .box-middle {
     justify-content: start;
-    width: 750px;
-    height: 600px;
+    width: 850px;
+    height: 700px;
     margin: 0 auto;
     background: #fff;
     border-radius: 15px;
@@ -11,7 +11,7 @@
     overflow: hidden;
     flex-direction: column;
     align-items: center;
-    background-image: linear-gradient(to left bottom,#ff8fb2 0%,#a797ff 50%,#00e5ff 100%);
+    background-image: linear-gradient(to left bottom, #ff8fb2 0%, #a797ff 50%, #00e5ff 100%);
 }
 
 .auth-image img {
