@@ -1,11 +1,13 @@
-#count{
+#count {
     font-size: 50px;
-    font-style:inherit;
-    width: 500px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: inherit;
+    width: 850px;
     border-radius: 25px;
     text-align: center;
     color: pink;
 }
-h2{
-    color:pink;
+
+h2 {
+    color: pink;
 }

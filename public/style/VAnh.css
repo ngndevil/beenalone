@@ -1,6 +1,5 @@
 body {
-
-    height: 675px;
+    height: 890px;
     background-color: red;
-    background-image: linear-gradient(#ff8fb2 0%,#a797ff 50%,#00e5ff 100%);
+    background-image: linear-gradient(#ff8fb2 0%, #a797ff 50%, #00e5ff 100%);
 }
