@@ -2,6 +2,6 @@ body {
 
     height: 675px;
     background-color: red;
-    background-image: linear-gradient(to top right, pink, Purple);
+    background-image: linear-gradient(#ff8fb2 0%,#a797ff 50%,#00e5ff 100%);
 }
 
