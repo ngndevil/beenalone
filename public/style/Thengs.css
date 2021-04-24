@@ -11,6 +11,7 @@
     overflow: hidden;
     flex-direction: column;
     align-items: center;
+    background-image: linear-gradient(to left bottom,#ff8fb2 0%,#a797ff 50%,#00e5ff 100%);
 }
 
 .auth-image img {

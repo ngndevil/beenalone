@@ -1,3 +1,14 @@
 #count{
-    font-size: 40px;
+    font-size: 50px;
+    font-style:inherit;
+    width: 500px;
+    border-radius: 25px;
+    text-align: center;
+    color: pink;
+}
+h2{
+    color:pink;
+}
+#meme{
+    justify-content: center;
 }
