@@ -1,0 +1,5 @@
+body {
+    height: 1000px;
+    background-color: red; 
+    background-image: linear-gradient(to top right, pink, Purple);
+  }
