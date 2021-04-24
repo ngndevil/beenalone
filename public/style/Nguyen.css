@@ -10,5 +10,6 @@ h2{
     color:pink;
 }
 #meme{
-    justify-content: center;
+    height: 150px;  
+    width: 200px;
 }
