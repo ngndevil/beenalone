@@ -1,0 +1,17 @@
+.box-middle {
+    justify-content: center;
+    width: 750px;
+    height: 600px;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 1px 2px 8px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    margin-top: 4rem;
+    overflow: hidden;
+}
+
+.auth-image img {
+    height: 100%;
+    width: auto;
+}
