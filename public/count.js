@@ -8,8 +8,8 @@ function myFunction() {
     var h = Math.floor((fa % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))
     var m = Math.floor((fa % (1000 * 60 * 60)) / (1000 * 60))
     var s = Math.floor((fa % (1000 * 60)) / 1000)
-    document.getElementById("count").innerHTML = d + " Days " +
-        h + " Hours " + m +" Minutes "+ s + " Seconds ";
+    document.getElementById("count").innerHTML = d + " Day " +
+        h + " Hour " + m +" Min "+ s + " Sec ";
 }
 
 setInterval(() => {
