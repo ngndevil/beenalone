@@ -3,11 +3,36 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: inherit;
     width: 850px;
-    border-radius: 25px;
+    border-radius: 5px;
     text-align: center;
     color: pink;
 }
-
+#di{
+    color:pink;
+    border-style: none;
+    text-align: center;
+    font-size: 18px;
+    margin: 0%;
+    border-radius: 10px;
+    width: 70%;
+    height: 30%;
+}
+#input-box{
+    color: pink;
+    height: 10%;
+    width: 15%;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: inherit;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 1px 2px 8px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+    align-items: center;
+    background-image: linear-gradient(to left bottom,#8E78FF,#FC7D7B);
+}
 h2 {
     color: pink;
 }
